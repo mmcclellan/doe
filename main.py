@@ -1,9 +1,7 @@
 #!/usr/bin/env python
-
 """
-Module docstring.
+doe module docstring.
 """
-
 import sys
 
 def main(argv=None):
